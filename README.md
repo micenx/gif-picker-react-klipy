@@ -2,7 +2,7 @@
 
 A modern, customizable GIF picker component for React applications using the [Klipy API](https://klipy.com) - a free Tenor alternative.
 
-![GIF Picker Preview](https://via.placeholder.com/400x300?text=GIF+Picker+Preview)
+![GIF Picker Preview](https://placehold.co/400x300?text=GIF+Picker+Preview)
 
 ## Features
 
@@ -22,25 +22,24 @@ A modern, customizable GIF picker component for React applications using the [Kl
 
 ```bash
 # npm
-npm install github:USERNAME/REPO_NAME
+npm install github:micenx/gif-picker-react-klipy
 
 # yarn
-yarn add github:USERNAME/REPO_NAME
+yarn add github:micenx/gif-picker-react-klipy
 
 # pnpm
-pnpm add github:USERNAME/REPO_NAME
+pnpm add github:micenx/gif-picker-react-klipy
 ```
 
-Example (replace with your actual GitHub username and repo):
 ```bash
-npm install github:yourusername/gif-picker-react
+npm install github:micenx/gif-picker-react
 ```
 
 ### Option 2: Copy to your project
 
 Copy the `gif-picker` folder to your project's components or lib directory.
 
-### Option 3: NPM Registry (coming soon)
+### Option 3: NPM Registry (coming soon!!)
 
 ```bash
 npm install gif-picker-react-klipy
@@ -295,3 +294,4 @@ MIT License - feel free to use in personal and commercial projects.
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request.
+
