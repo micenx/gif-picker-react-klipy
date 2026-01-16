@@ -2,7 +2,7 @@
 
 A modern, customizable GIF picker component for React applications using the [Klipy API](https://klipy.com) - a free Tenor alternative.
 
-![GIF Picker Preview](https://placehold.co/400x300?text=GIF+Picker+Preview)
+![GIF Picker Preview](https://raw.githubusercontent.com/micenx/gif-picker-react-klipy/refs/heads/main/screenshot.png)
 
 ## Features
 
@@ -294,4 +294,5 @@ MIT License - feel free to use in personal and commercial projects.
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request.
+
 
