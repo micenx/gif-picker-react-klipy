@@ -32,7 +32,7 @@ pnpm add github:micenx/gif-picker-react-klipy
 ```
 
 ```bash
-npm install github:micenx/gif-picker-react
+npm install github:micenx/gif-picker-react-klipy
 ```
 
 ### Option 2: Copy to your project
@@ -294,5 +294,6 @@ MIT License - feel free to use in personal and commercial projects.
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request.
+
 
 
